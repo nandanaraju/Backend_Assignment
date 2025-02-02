@@ -30,7 +30,7 @@ This is a RESTful API for managing users, groups, and 🔔 notifications. It ena
    node app.js
    ```
 
-##📡  API Endpoints
+## 📡  API Endpoints
 ### 👤 User Management
 | Method | Endpoint | Description |
 |--------|------------------|-------------------------|
