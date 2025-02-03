@@ -60,9 +60,8 @@ This is a RESTful API for managing users, groups, and 🔔 notifications. It ena
 
 
 ## 🧪 Testing with Postman
-1. **📬 Import Postman Collection**
+1. **Published Link** : [Link](https://documenter.getpostman.com/view/36810693/2sAYX3sPKU)
 2. **🔁 Replace `:id`, `:userId`, and `:groupId` with actual values**
 3. **🚀 Run requests and validate responses**
 
-## 📜 License
-This project is licensed under the MIT License.
+
